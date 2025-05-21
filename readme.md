@@ -97,6 +97,8 @@ Estimated Total Size (MB): 3.92
 ==========================================================================================
 ```
 
+![computation graph](mnist_cnn_graph.png)
+
 See the model definition in workspace.ipynb or playground.ipynb.
 
 # Results
